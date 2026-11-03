@@ -1,0 +1,4 @@
+interface:
+  display_name: "簡牘綴合圖版"
+  short_description: "按簡號檢索已登記PDF的紅外線圖版，提取簡面並對齊茬口拼接"
+  default_prompt: "使用 $slip-join-plate 按我提供的簡號，從已登記PDF的紅外線圖版提取簡面、對齊茬口並拼接，輸出完整圖、茬口放大圖與可編輯檔。"
